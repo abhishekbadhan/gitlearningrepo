@@ -4,3 +4,4 @@ def names(*args,**kwargs):
 list = ('school','hi','fi')
 dict = {'name':'abhishek','age':23 }
 names(list,dict)
+print('this is working')
